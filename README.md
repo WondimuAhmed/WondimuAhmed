@@ -1,10 +1,13 @@
-## Hi there 👋
-
 
 
 <h2 align="left">Hi 👋! My name is Dr. Wondimu Ahmed, and I'm a Quantitative Researcher and a Data Analytics Consultant with 14+ years of applied research experience.</h2>
 
 ###
+<img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" />
+
+
+<img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/snake.svg" alt="GitHub contribution snake animation" />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wondimuahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -13,7 +16,6 @@
 
 ###
 
-<img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" />
 
 ###
 
@@ -44,7 +46,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/snake.svg" alt="GitHub contribution snake animation" />
 
 
 
