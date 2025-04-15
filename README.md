@@ -3,10 +3,10 @@
 <h2 align="left">Hi 👋! My name is Dr. Wondimu Ahmed, and I'm a Quantitative Researcher and a Data Analytics Consultant with 14+ years of applied research experience.</h2>
 
 ###
-<img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" />
+<!-- <img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" /> -->
 
 
-<img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/snake.svg" alt="GitHub contribution snake animation" />
+ <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/snake.svg" alt="GitHub contribution snake animation" />
 
 
 <div align="center">
