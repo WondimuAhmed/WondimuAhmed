@@ -66,11 +66,11 @@
     <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scholar logo" />
   </a>
   
-  <a href="https://orcid.org/your-orcid-id" target="_blank">
+  <a href="https://orcid.org/0000-0002-3939-4276" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ORCID logo" />
   </a>
   
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/WondimuAhmed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
   </a>
 </div>
