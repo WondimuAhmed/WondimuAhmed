@@ -48,14 +48,33 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scholar logo" />
   <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="orcid logo" />
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-</div>
+</div> -->
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/wondimuahmed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  
+  <a href="https://scholar.google.com/citations?user=your-scholar-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scholar logo" />
+  </a>
+  
+  <a href="https://orcid.org/your-orcid-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ORCID logo" />
+  </a>
+  
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
+  </a>
+</div>
+
 
 <br clear="both">
 
