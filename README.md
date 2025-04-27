@@ -25,10 +25,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
- <!-- <img src="https://raw.githubusercontent.com/WondimuAhmed/WondimuAhmed/output/rstudio1.png" height="30" alt="RStudio logo" /> -->
   <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/rstudio.png?raw=true" height="30" alt="RStudio logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/WondimuAhmed/WondimuAhmed/output/vs_code.jpeg" height="30" alt="Visual Studio Code logo" />
+  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/vscode.jpeg?raw=true" height="30" alt="Visual Studio Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
 </div>
