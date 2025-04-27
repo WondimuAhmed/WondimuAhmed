@@ -24,9 +24,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg,height="30" alt="postgresql logo" />   
+ <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/rstudio.png" alt="RStudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="tableau logo" />
+ <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/vs_code.png" alt="Visual Studio Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
  
