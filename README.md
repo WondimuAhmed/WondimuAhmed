@@ -1,6 +1,8 @@
 
 
-<h2 align="left">Hi 👋! My name is Dr. Wondimu Ahmed, and I'm a Quantitative Researcher and a Data Analytics Consultant with 14+ years of applied research experience.</h2>
+<h2 align="left"> 👋! I am a researcher and consultant with deep expertise in quantitative analysis, data science, and strategic insights.
+ I partner with teams and organizations to transform complex data into actionable intelligence. 
+Explore my portfolio to see how I applied my expertise in psychometrics, causal analytics, multilevel modeling, market segmentation, brand mapping, and machine learning to deliver actionable insights that drive growth, innovation, and real-world impact. </h2>
 
 ###
 <!-- <img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" /> -->
