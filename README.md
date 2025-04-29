@@ -1,8 +1,8 @@
 
 
-<h2 align="left"> 👋! I am a researcher and consultant with deep expertise in quantitative analysis, data science, and strategic insights.
+<h3 align="left"> 👋! I am a researcher and consultant with deep expertise in quantitative analysis, data science, and strategic insights.
  I partner with teams and organizations to transform complex data into actionable intelligence. 
-Explore my <a href="https://wondimuahmed.github.io/Portfolio/"> portfolio </a> to see how I applied my expertise in psychometrics, causal inference, multilevel modeling, market segmentation, brand mapping, and machine learning to deliver actionable insights that drive growth, innovation, and/or  real-world impact. </h2>
+Explore my <a href="https://wondimuahmed.github.io/Portfolio/"> portfolio </a> to see how I applied my expertise in psychometrics, causal inference, multilevel modeling, market segmentation, brand mapping, and machine learning to deliver actionable insights that drive growth, innovation, and/or  real-world impact. </h3>
 
 ###
 <!-- <img align="right" height="500" src="animated_avatar.gif" alt="Animated avatar of Wondimu Ahmed" /> -->
