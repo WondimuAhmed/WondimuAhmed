@@ -22,7 +22,7 @@ Explore my <a href="https://wondimuahmed.github.io/Portfolio/"> portfolio </a> t
 ###
 
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -32,23 +32,30 @@ Explore my <a href="https://wondimuahmed.github.io/Portfolio/"> portfolio </a> t
   <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/vscode.jpeg?raw=true" height="30" alt="Visual Studio Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
+</div> -->
+
+
+
+###
+<div align="left">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="30" style="vertical-align: middle;" alt="R logo" /></span>
+  <span><img width="12" /></span>
+  
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" style="vertical-align: middle;" alt="Python logo" /></span>
+  <span><img width="12" /></span>
+
+  <span><img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/rstudio.png?raw=true" height="30" width="30" style="vertical-align: middle;" alt="RStudio logo" /></span>
+  <span><img width="12" /></span>
+
+  <span><img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/vscode.jpeg?raw=true" height="30" width="30" style="vertical-align: middle;" alt="VS Code logo" /></span>
+  <span><img width="12" /></span>
+
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" style="vertical-align: middle;" alt="Jupyter logo" /></span>
 </div>
 
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/rstudio1.png" alt="RStudio logo" />
-  <img width="12" />
-  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/output/vs_code.jpeg" alt="Visual Studio Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
- 
-</div> -->
 
-###
+
 
 <!-- <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
