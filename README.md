@@ -53,13 +53,14 @@ Explore my <a href="https://wondimuahmed.github.io/Portfolio/"> portfolio </a> t
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" style="vertical-align: middle;" alt="Jupyter logo" /></span>
 </div> -->
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40" alt="R logo" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python logo" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/rstudio.png?raw=true" height="40" width="40" alt="RStudio logo" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/vscode.jpeg?raw=true" height="40" width="40" alt="VS Code logo" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter logo" style="vertical-align: middle;" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40" alt="R logo" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python logo" style="margin: 0 20px;" />
+  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/rstudio.png?raw=true" height="40" width="40" alt="RStudio logo" style="margin: 0 20px;" />
+  <img src="https://github.com/WondimuAhmed/WondimuAhmed/blob/main/vscode.jpeg?raw=true" height="40" width="40" alt="VS Code logo" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter logo" style="margin: 0 20px;" />
 </div>
+
 
 
 
